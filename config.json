@@ -1,0 +1,9 @@
+{
+  "storeName": "PeixotoXzx",
+  "color": "#5865F2",
+  "categories": [
+    {"id":"problemas","label":"Problemas","emoji":"🛠️","description":"Erros com produto, compra ou entrega"},
+    {"id":"ajuda","label":"Ajuda","emoji":"💬","description":"Dúvidas e suporte geral"},
+    {"id":"resets","label":"Resets","emoji":"🔄","description":"Solicitar reset ou recuperação"}
+  ]
+}
